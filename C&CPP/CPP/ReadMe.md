@@ -8,7 +8,9 @@
 3. OperatorOverloading
 	+ 运算符重载
 4. InheritDerive
-	+ 运算符重载
+	+ 继承与派生
+5. PolymorphismVirtualFunction
+	+ 多态性与虚函数
 
 
 
