@@ -1,8 +1,16 @@
+/*
+ * 20160328
+ * e5_11.cpp 对string类的进一步封装
+ * GetTrim()字符串去空格
+ * GetInt()字符串转化为整型数
+ * GetString()整型数转化为字符串
+ */
 #include <string>
 #include <sstream>
 #include <iostream>
 using namespace std;
 
+// 将ext_string对string进行扩展，这样可以直接拿出来。
 class ext_string :public string
 {
 public:
