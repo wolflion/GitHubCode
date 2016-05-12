@@ -55,10 +55,7 @@ int main()
 				break;
 			}
 		}
-		for (int j=0;j<iGroup;j++)
-		{
-			iOut[j] = nDay;
-		}
+		iOut[i] = nDay;
 	}
 
 	for (int k=0;k<iGroup;k++)
