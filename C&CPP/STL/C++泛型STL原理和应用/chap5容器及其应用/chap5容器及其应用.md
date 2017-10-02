@@ -27,7 +27,8 @@
     + `size_type max_size() const;`
 + 例5-3 编程程序，测试“表5-4：计算向量容器大小的操作”的成员函数，了解其功能
 + 例5-4 编写一个在vector上使用C++11新规则的程序。
-+ [参考](http://www.cplusplus.com/reference/vector/)
++ [cplusplus-vector](http://www.cplusplus.com/reference/vector/)
++ [C++ vector用法](http://www.cnblogs.com/wang7/archive/2012/04/27/2474138.html)  *不过，这个开始看还行，现在来看，差不多都会了，算法部分接触得少。*
 
 ###  5.2 
 
